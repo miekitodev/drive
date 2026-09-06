@@ -1,0 +1,266 @@
+{
+  "installations": [
+    {
+      "id": "Sunrise",
+      "name": "Sunrise",
+      "sublabel": "",
+      "icon": "",
+      "minecraftVersion": "1.21.1",
+      "loader": "fabric",
+      "fabricLoaderVersion": "0.19.3",
+      "forgeInstallerPath": "",
+      "memoryMinMB": 2048,
+      "memoryMaxMB": 4096,
+      "mods": [
+        {
+          "name": "alternate current mc1.21 1.9.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/alternate-current-mc1.21-1.9.0.jar",
+          "fileName": "alternate-current-mc1.21-1.9.0.jar"
+        },
+        {
+          "name": "Animorph client 1.21.1 1.0.8 SNAPSHOT",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/Animorph-client-1.21.1-1.0.8-SNAPSHOT.jar",
+          "fileName": "Animorph-client-1.21.1-1.0.8-SNAPSHOT.jar"
+        },
+        {
+          "name": "appleskin fabric mc1.21 3.0.6",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/appleskin-fabric-mc1.21-3.0.6.jar",
+          "fileName": "appleskin-fabric-mc1.21-3.0.6.jar"
+        },
+        {
+          "name": "architectury 13.0.8 fabric",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/architectury-13.0.8-fabric.jar",
+          "fileName": "architectury-13.0.8-fabric.jar"
+        },
+        {
+          "name": "athena fabric 1.21.1 4.0.6",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/athena-fabric-1.21.1-4.0.6.jar",
+          "fileName": "athena-fabric-1.21.1-4.0.6.jar"
+        },
+        {
+          "name": "chipped fabric 1.21.1 4.0.2",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/chipped-fabric-1.21.1-4.0.2.jar",
+          "fileName": "chipped-fabric-1.21.1-4.0.2.jar"
+        },
+        {
+          "name": "Chunky Fabric 1.4.23",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/Chunky-Fabric-1.4.23.jar",
+          "fileName": "Chunky-Fabric-1.4.23.jar"
+        },
+        {
+          "name": "CrashAssistant fabric 1.20.2 1.21.4 1.11.9",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/CrashAssistant-fabric-1.20.2-1.21.4-1.11.9.jar",
+          "fileName": "CrashAssistant-fabric-1.20.2-1.21.4-1.11.9.jar"
+        },
+        {
+          "name": "CraterLib Fabric 1.21 3.1.2",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/CraterLib-Fabric-1.21-3.1.2.jar",
+          "fileName": "CraterLib-Fabric-1.21-3.1.2.jar"
+        },
+        {
+          "name": "CustomPlayerModels Fabric 1.21 0.6.26a",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/CustomPlayerModels-Fabric-1.21-0.6.26a.jar",
+          "fileName": "CustomPlayerModels-Fabric-1.21-0.6.26a.jar"
+        },
+        {
+          "name": "custom waypoints 1.21.1 1.0.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/custom_waypoints-1.21.1-1.0.0.jar",
+          "fileName": "custom_waypoints-1.21.1-1.0.0.jar"
+        },
+        {
+          "name": "edm 26.5.0 fabric 1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/edm-26.5.0-fabric-1.21.1.jar",
+          "fileName": "edm-26.5.0-fabric-1.21.1.jar"
+        },
+        {
+          "name": "effortless 1.21.1 3.4.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/effortless-1.21.1-3.4.0.jar",
+          "fileName": "effortless-1.21.1-3.4.0.jar"
+        },
+        {
+          "name": "entityculling fabric 1.10.2 mc1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/entityculling-fabric-1.10.2-mc1.21.1.jar",
+          "fileName": "entityculling-fabric-1.10.2-mc1.21.1.jar"
+        },
+        {
+          "name": "entity model features 3.2.4 1.21 fabric",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/entity_model_features-3.2.4-1.21-fabric.jar",
+          "fileName": "entity_model_features-3.2.4-1.21-fabric.jar"
+        },
+        {
+          "name": "entity texture features 1.21 fabric 7.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/entity_texture_features_1.21-fabric-7.1.jar",
+          "fileName": "entity_texture_features_1.21-fabric-7.1.jar"
+        },
+        {
+          "name": "explosive enhancement 1.3.2 1.21 1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/explosive-enhancement-1.3.2-1.21-1.21.1.jar",
+          "fileName": "explosive-enhancement-1.3.2-1.21-1.21.1.jar"
+        },
+        {
+          "name": "fabric api 0.116.12+1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/fabric-api-0.116.12+1.21.1.jar",
+          "fileName": "fabric-api-0.116.12+1.21.1.jar"
+        },
+        {
+          "name": "ferritecore 7.0.3 fabric",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/ferritecore-7.0.3-fabric.jar",
+          "fileName": "ferritecore-7.0.3-fabric.jar"
+        },
+        {
+          "name": "FoxriseStudioPanel 1.0.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/FoxriseStudioPanel-1.0.0.jar",
+          "fileName": "FoxriseStudioPanel-1.0.0.jar"
+        },
+        {
+          "name": "geckolib fabric 1.21.1 4.8.4",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/geckolib-fabric-1.21.1-4.8.4.jar",
+          "fileName": "geckolib-fabric-1.21.1-4.8.4.jar"
+        },
+        {
+          "name": "handcrafted fabric 1.21.1 4.0.3",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/handcrafted-fabric-1.21.1-4.0.3.jar",
+          "fileName": "handcrafted-fabric-1.21.1-4.0.3.jar"
+        },
+        {
+          "name": "ImmediatelyFast Fabric 1.6.10+1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+          "fileName": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar"
+        },
+        {
+          "name": "iris fabric 1.8.14 beta.1+mc1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+          "fileName": "iris-fabric-1.8.14-beta.1+mc1.21.1.jar"
+        },
+        {
+          "name": "koaliteam core 1.0.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/koaliteam-core-1.0.0.jar",
+          "fileName": "koaliteam-core-1.0.0.jar"
+        },
+        {
+          "name": "konkrete fabric 1.9.9 MC 1.21",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/konkrete_fabric_1.9.9_MC_1.21.jar",
+          "fileName": "konkrete_fabric_1.9.9_MC_1.21.jar"
+        },
+        {
+          "name": "krypton 0.2.8",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/krypton-0.2.8.jar",
+          "fileName": "krypton-0.2.8.jar"
+        },
+        {
+          "name": "letsdo vinery fabric 1.5.3",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/letsdo-vinery-fabric-1.5.3.jar",
+          "fileName": "letsdo-vinery-fabric-1.5.3.jar"
+        },
+        {
+          "name": "lithium fabric 0.15.3+mc1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/lithium-fabric-0.15.3+mc1.21.1.jar",
+          "fileName": "lithium-fabric-0.15.3+mc1.21.1.jar"
+        },
+        {
+          "name": "melody fabric 1.0.10 MC 1.21",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/melody_fabric_1.0.10_MC_1.21.jar",
+          "fileName": "melody_fabric_1.0.10_MC_1.21.jar"
+        },
+        {
+          "name": "midnightlib fabric 1.9.3+1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/midnightlib-fabric-1.9.3+1.21.1.jar",
+          "fileName": "midnightlib-fabric-1.9.3+1.21.1.jar"
+        },
+        {
+          "name": "modernfix fabric 5.25.1+mc1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/modernfix-fabric-5.25.1+mc1.21.1.jar",
+          "fileName": "modernfix-fabric-5.25.1+mc1.21.1.jar"
+        },
+        {
+          "name": "modmenu 11.0.4",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/modmenu-11.0.4.jar",
+          "fileName": "modmenu-11.0.4.jar"
+        },
+        {
+          "name": "muerte rojo 1.0.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/muerte-rojo-1.0.0.jar",
+          "fileName": "muerte-rojo-1.0.0.jar"
+        },
+        {
+          "name": "musicmod 1.0.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/musicmod-1.0.0.jar",
+          "fileName": "musicmod-1.0.0.jar"
+        },
+        {
+          "name": "nicemod 1.4.3",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/nicemod-1.4.3.jar",
+          "fileName": "nicemod-1.4.3.jar"
+        },
+        {
+          "name": "particlerain 4.0.0 beta.10+1.21.1 fabric",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/particlerain-4.0.0-beta.10+1.21.1-fabric.jar",
+          "fileName": "particlerain-4.0.0-beta.10+1.21.1-fabric.jar"
+        },
+        {
+          "name": "Pehkui 3.8.3+1.14.4 1.21",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/Pehkui-3.8.3+1.14.4-1.21.jar",
+          "fileName": "Pehkui-3.8.3+1.14.4-1.21.jar"
+        },
+        {
+          "name": "placeholder api 2.4.2+1.21",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/placeholder-api-2.4.2+1.21.jar",
+          "fileName": "placeholder-api-2.4.2+1.21.jar"
+        },
+        {
+          "name": "ProtectedAreaClient 1.0.2 client",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/ProtectedAreaClient-1.0.2-client.jar",
+          "fileName": "ProtectedAreaClient-1.0.2-client.jar"
+        },
+        {
+          "name": "resourcefullib fabric 1.21 3.0.12",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/resourcefullib-fabric-1.21-3.0.12.jar",
+          "fileName": "resourcefullib-fabric-1.21-3.0.12.jar"
+        },
+        {
+          "name": "screentext 1.21.1 v3.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/screentext-1.21.1-v3.1.jar",
+          "fileName": "screentext-1.21.1-v3.1.jar"
+        },
+        {
+          "name": "skinlayers3d fabric 1.11.2 mc1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/skinlayers3d-fabric-1.11.2-mc1.21.1.jar",
+          "fileName": "skinlayers3d-fabric-1.11.2-mc1.21.1.jar"
+        },
+        {
+          "name": "skinrestorer 2.7.0+1.21 fabric",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/skinrestorer-2.7.0+1.21-fabric.jar",
+          "fileName": "skinrestorer-2.7.0+1.21-fabric.jar"
+        },
+        {
+          "name": "sodium extra fabric 0.8.7+mc1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/sodium-extra-fabric-0.8.7+mc1.21.1.jar",
+          "fileName": "sodium-extra-fabric-0.8.7+mc1.21.1.jar"
+        },
+        {
+          "name": "sodium fabric 0.8.12 beta.1+mc1.21.1",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/sodium-fabric-0.8.12-beta.1+mc1.21.1.jar",
+          "fileName": "sodium-fabric-0.8.12-beta.1+mc1.21.1.jar"
+        },
+        {
+          "name": "SunriseDeath 1.0.0 Fabric",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/SunriseDeath-1.0.0-Fabric.jar",
+          "fileName": "SunriseDeath-1.0.0-Fabric.jar"
+        },
+        {
+          "name": "SunrisePresense 1.0.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/SunrisePresense-1.0.0.jar",
+          "fileName": "SunrisePresense-1.0.0.jar"
+        },
+        {
+          "name": "supersecretshaders 1.0.0",
+          "url": "https://raw.githubusercontent.com/miekitodev/drive/main/mods/Sunrise/supersecretshaders-1.0.0.jar",
+          "fileName": "supersecretshaders-1.0.0.jar"
+        }
+      ],
+      "resourcePacks": [],
+      "serverIp": "node1.onesimpledev.net:25563",
+      "serverPort": 25563
+    }
+  ]
+}
